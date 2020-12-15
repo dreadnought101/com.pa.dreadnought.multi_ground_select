@@ -1,0 +1,55 @@
+{
+    "author": "Dreadnought",
+    "build": "114980",
+    "context": "client",
+    "date": "2020-12-12",
+    "description": "Personal mod for myself to add more keybinds to select combat ground units on screen.",
+    "display_name": "Multi Ground Select Hotkeys",
+    "forum": "",
+    "identifier": "com.dreadnought.pa.multi_ground_select",
+    "priority": 100,
+    "signature": "vhat vhes vhis?",
+    "version": "1.0-dev",
+    "scenes": {
+        "global_mod_list": [
+            "coui://ui/mods/select_ground_units/keybinds.js"
+        ],
+        "live_game": [
+            "coui://ui/mods/select_ground_units/live_game.js"
+        ]
+    },
+    "url": " ",
+    "download": " ",
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "add",
+        "unit",
+        "units",
+		"group",
+		"control",
+		"hotkeys",
+		"hotkey",
+		"select",
+		"addition",
+		"modifier",
+        "ui",
+        "dreadnought",
+		"dreadnaught"
+    ],
+    "sort": "select ground",
+    "authors": [
+        "Dreadnought"
+    ],
+    "icon": "https://i.imgur.com/DOoKHpf.jpg",
+    "dependencies": [],
+    "companions": [],
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": false,
+    "titans": false,
+    "conflicts": {}
+}
